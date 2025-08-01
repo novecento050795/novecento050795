@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tamirlan Akanov
-- 👀 I’m interested in: Software Engineering, Music, Sport
+- 👀 I’m interested in: Software Engineering
 - 🌱 I’m currently learning: Full Stack Web Development + DevOps
 - 📫 How to reach me: novecento050795@gmail.com
 
